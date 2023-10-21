@@ -52,7 +52,7 @@ sh sba_test_regdb.sh
 
 # Citation
 This code is based on previous work [ADCA](https://github.com/yangbincv/ADCA.). 
-If you find this code useful for your research, please cite our paper.
+If you find this code useful for your research, please cite our papers.
 
 ```
 @InProceedings{Yang_2023_ICCV,
